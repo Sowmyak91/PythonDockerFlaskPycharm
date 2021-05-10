@@ -3,7 +3,7 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 
 ## Documents
 * [Assignment 4](restIntro-pycharm.pdf)
-* [Assignment Document with screenshots](RESTAPIwithFlask-WebApplicationPartFinal.pdf)
+* [Assignment Document with screenshots](ScreenshotsRestAPIFlask.pdf)
 
 ## postman screenshots
 ![postman all records](screenshots/postman-allrecords.png)
